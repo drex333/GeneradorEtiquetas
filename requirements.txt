@@ -1,0 +1,2 @@
+python-barcode
+pdfkit~=0.6.1
