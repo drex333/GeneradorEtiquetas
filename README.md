@@ -1,6 +1,6 @@
 # Generador de etiquetas
 
-Script python para generar etiquetas en PDF con un logo, un código de barras y una imagens éxtra. 
+Script python para generar etiquetas en PDF con un logo, un código de barras y una imagen éxtra. 
 
 ### Requerimientos:
 ```
